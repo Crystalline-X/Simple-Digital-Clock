@@ -1,3 +1,3 @@
 # Simple-Digital-Clock
 
-projek kecil kecilan sebagai latihan JavaScript
+projek kecil kecilan latihan JavaScript
